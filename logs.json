@@ -1,7 +1,11 @@
 {
   "food": [],
   "water": [
-    "243ml"
+    "243ml",
+    {
+      "amount": "3 cups",
+      "timestamp": "2025-12-05 17:42"
+    }
   ],
   "sleep": [
     "4.5",
